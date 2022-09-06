@@ -43,5 +43,5 @@ I learned more about centering with CSS flexbox and positioning the elements so 
 ## Author
 
 - Website - [Glen Popowich](https://github.com/electricman07)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@electricman07](https://www.frontendmentor.io/profile/electricman07)
+- Twitter - [@glen_popowich](https://www.twitter.com/glen_popowich)
