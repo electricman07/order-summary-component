@@ -24,7 +24,7 @@ This is my fourth project from Frontend Mentor. It is an order summary component
 ### Links
 
 - Solution URL: [Link to the source files](https://github.com/electricman07/order-summary-component)
-- Live Site URL: [link to the live site](https://your-live-site-url.com)
+- Live Site URL: [link to the live site](https://order-summary-component-nine-neon.vercel.app)
 
 ## My process
 
